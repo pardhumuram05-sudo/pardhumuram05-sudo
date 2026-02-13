@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Pardha Saradhi
 
-<!--
-**pardhumuram05-sudo/pardhumuram05-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am passionate about programming and building web applications.  
+Currently focusing on improving my skills in Java and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- ☕ Core Java
+- 🌐 HTML5
+- 🎨 CSS3
+
+---
+
+## 📚 Currently Learning
+
+- Java Collections Framework
+- Data Structures & Algorithms
+- Responsive Web Design
+
+---
+
+## 🔥 Projects
+
+- 🔐 Password Protected Web Page (HTML & CSS)
+- 📷 Photo & Audio Web Page
+- ☕ Java Programs (Arrays, Collections, HashSet, Map)
+
+More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![Pardha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🎯 Goals
+
+- Become a Full Stack Developer
+- Strengthen Problem Solving Skills
+- Build Real-World Applications
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+⭐ Thanks for visiting my profile!
